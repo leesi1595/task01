@@ -46,7 +46,7 @@
 	color: #fff;
 	line-height: 1.8;
 }
-.public-footer .footer-col-nor {
+.public-footer .footer-col:last-child {
 	margin-right: 0;
 }
 .public-footer .footer-col a:hover {
